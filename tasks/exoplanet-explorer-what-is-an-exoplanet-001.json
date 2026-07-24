@@ -16,14 +16,14 @@
   "tokenEstimate": "small",
   "status": "open",
   "context": "Newcomers need an accurate, plain-language intro before touching data.",
-  "objective": "Write a beginner explainer of what exoplanets are, how they are detected (transit, radial velocity), and why they matter.",
+  "objective": "Write a beginner explainer of what exoplanets are and why they matter.",
   "acceptanceCriteria": [
-    "Covers definition, transit and radial-velocity detection, and significance",
+    "Defines exoplanets and explains significance",
     "~8th-grade reading level",
     "Cites the NASA Exoplanet Archive and >=1 authoritative source",
     "CC-BY-4.0 header"
   ],
-  "output": "deliverables/what-is-an-exoplanet-001.md",
+  "output": "deliverables/exoplanet-explorer-what-is-an-exoplanet-001.md",
   "requestor": "TO BE SECURED",
   "verifiedNeed": false,
   "outputLicense": "CC-BY-4.0"

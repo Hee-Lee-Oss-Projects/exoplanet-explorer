@@ -1,0 +1,30 @@
+{
+  "id": "exoplanet-explorer-detection-methods-002",
+  "title": "How exoplanets are detected (methods explainer)",
+  "project": "exoplanet-explorer",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "education",
+    "astronomy",
+    "open-data"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Understanding detection methods is essential to reading the archive.",
+  "objective": "Explain the main detection methods (transit, radial velocity, direct imaging, microlensing) in plain language with strengths/limits of each.",
+  "acceptanceCriteria": [
+    "Covers >=3 detection methods with strengths and limits",
+    "Plain language with a simple diagram description",
+    "Cites authoritative sources",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/exoplanet-explorer-detection-methods-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

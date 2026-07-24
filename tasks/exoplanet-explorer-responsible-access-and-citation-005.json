@@ -1,0 +1,29 @@
+{
+  "id": "exoplanet-explorer-responsible-access-and-citation-005",
+  "title": "Guide: accessing and citing the archive responsibly",
+  "project": "exoplanet-explorer",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "low",
+  "domain": [
+    "education",
+    "astronomy",
+    "open-data"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "Learners should access and cite the data correctly.",
+  "objective": "Write a short guide on how to access the archive and cite it properly, including its terms.",
+  "acceptanceCriteria": [
+    "Explains access options and correct citation",
+    "States the archive's use terms",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/exoplanet-explorer-responsible-access-and-citation-005.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
