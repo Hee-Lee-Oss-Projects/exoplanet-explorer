@@ -1,0 +1,30 @@
+{
+  "id": "exoplanet-explorer-classroom-activity-003",
+  "title": "Classroom activity: find a habitable-zone candidate",
+  "project": "exoplanet-explorer",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "education",
+    "astronomy",
+    "open-data"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "A hands-on activity makes the archive concrete for students.",
+  "objective": "Write a classroom activity where students use archive fields to reason about which listed planets might sit in a star's habitable zone, with teacher notes.",
+  "acceptanceCriteria": [
+    "Step-by-step student activity plus teacher notes and answer guidance",
+    "Uses only public archive fields; no login required",
+    "Inclusive, age-appropriate framing",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/classroom-activity-003.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

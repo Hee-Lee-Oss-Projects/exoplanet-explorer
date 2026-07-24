@@ -1,0 +1,30 @@
+{
+  "id": "exoplanet-explorer-archive-field-guide-002",
+  "title": "NASA Exoplanet Archive field guide",
+  "project": "exoplanet-explorer",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "education",
+    "astronomy",
+    "open-data"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "The archive has many columns; learners need a friendly map of the key ones.",
+  "objective": "Write a beginner guide to the archive's key fields (planet name, orbital period, radius, mass, discovery method/year, host-star basics) with what each means.",
+  "acceptanceCriteria": [
+    "Explains >=8 key fields in plain language with units",
+    "Includes a small annotated example row",
+    "Cites the archive's documentation",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/archive-field-guide-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

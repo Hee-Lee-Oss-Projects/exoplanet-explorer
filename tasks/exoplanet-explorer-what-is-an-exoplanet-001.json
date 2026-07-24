@@ -1,0 +1,30 @@
+{
+  "id": "exoplanet-explorer-what-is-an-exoplanet-001",
+  "title": "What is an exoplanet? (beginner explainer)",
+  "project": "exoplanet-explorer",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "high",
+  "domain": [
+    "education",
+    "astronomy",
+    "open-data"
+  ],
+  "riskTier": "low",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "small",
+  "status": "open",
+  "context": "Newcomers need an accurate, plain-language intro before touching data.",
+  "objective": "Write a beginner explainer of what exoplanets are, how they are detected (transit, radial velocity), and why they matter.",
+  "acceptanceCriteria": [
+    "Covers definition, transit and radial-velocity detection, and significance",
+    "~8th-grade reading level",
+    "Cites the NASA Exoplanet Archive and >=1 authoritative source",
+    "CC-BY-4.0 header"
+  ],
+  "output": "deliverables/what-is-an-exoplanet-001.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
